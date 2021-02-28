@@ -1,0 +1,31 @@
+body
+{
+ margin:0 auto;
+ padding:0px;
+ text-align:center;
+ width:100%;
+ font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+
+ background: url(https://cdn.discordapp.com/attachments/815067482041090091/815464259386736640/image0.jpg);
+}
+.menu{
+    position: absolute;
+width: 69px;
+height: 71px;
+left: 33px;
+top: 24px;
+color : white;
+border: none;
+
+}
+.msg{
+    position: absolute;
+width: 100.7px;
+height: 100.7px;
+left: 122px;
+top: 372px;
+background: linear-gradient(298.06deg, #FB96A3 19.93%, #3C3E7B 72.2%);
+border-radius: 25%;
+border :none;
+
+}
